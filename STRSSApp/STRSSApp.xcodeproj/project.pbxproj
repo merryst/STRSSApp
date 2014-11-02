@@ -163,6 +163,7 @@
 		3AF8DA811A067EF3002801FF /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = STRSS;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = devst;
 				TargetAttributes = {
@@ -412,6 +413,7 @@
 				3AF8DAAE1A067EF3002801FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3AF8DAAF1A067EF3002801FF /* Build configuration list for PBXNativeTarget "STRSSAppTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +422,7 @@
 				3AF8DAB11A067EF3002801FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
